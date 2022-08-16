@@ -1,0 +1,6 @@
+framework module Pods_CoutnDownTimerWithPodTests {
+  umbrella header "Pods-CoutnDownTimerWithPodTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - MagicTimer (1.0.4)
+
+DEPENDENCIES:
+  - MagicTimer
+
+SPEC REPOS:
+  trunk:
+    - MagicTimer
+
+SPEC CHECKSUMS:
+  MagicTimer: e39ab4d63c759eed0cee34f521002f099bdcc472
+
+PODFILE CHECKSUM: 3d4d931cc691284ce38eb7348867db0c3779102d
+
+COCOAPODS: 1.11.3
