@@ -20,7 +20,6 @@ To install this project in your system follow the below steps :
 
 ## Demo
 
-file:///Users/tejeshsingh/Downloads/CountDownTimerWithPod.gif
 
 
 ![CountDownTimerWithPod](https://user-images.githubusercontent.com/97300474/184846883-d32e02a3-9013-497b-817a-f324cecad16e.gif)
